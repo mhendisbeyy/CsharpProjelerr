@@ -1,0 +1,10 @@
+E:\C#  Uygulama\Matematik_Fonksiyonlari\Matematik_Fonksiyonlari\bin\Debug\Matematik_Fonksiyonlari.exe.config
+E:\C#  Uygulama\Matematik_Fonksiyonlari\Matematik_Fonksiyonlari\bin\Debug\Matematik_Fonksiyonlari.exe
+E:\C#  Uygulama\Matematik_Fonksiyonlari\Matematik_Fonksiyonlari\bin\Debug\Matematik_Fonksiyonlari.pdb
+E:\C#  Uygulama\Matematik_Fonksiyonlari\Matematik_Fonksiyonlari\obj\Debug\Matematik_Fonksiyonlari.csprojAssemblyReference.cache
+E:\C#  Uygulama\Matematik_Fonksiyonlari\Matematik_Fonksiyonlari\obj\Debug\Matematik_Fonksiyonlari.Form1.resources
+E:\C#  Uygulama\Matematik_Fonksiyonlari\Matematik_Fonksiyonlari\obj\Debug\Matematik_Fonksiyonlari.Properties.Resources.resources
+E:\C#  Uygulama\Matematik_Fonksiyonlari\Matematik_Fonksiyonlari\obj\Debug\Matematik_Fonksiyonlari.csproj.GenerateResource.cache
+E:\C#  Uygulama\Matematik_Fonksiyonlari\Matematik_Fonksiyonlari\obj\Debug\Matematik_Fonksiyonlari.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Matematik_Fonksiyonlari\Matematik_Fonksiyonlari\obj\Debug\Matematik_Fonksiyonlari.exe
+E:\C#  Uygulama\Matematik_Fonksiyonlari\Matematik_Fonksiyonlari\obj\Debug\Matematik_Fonksiyonlari.pdb

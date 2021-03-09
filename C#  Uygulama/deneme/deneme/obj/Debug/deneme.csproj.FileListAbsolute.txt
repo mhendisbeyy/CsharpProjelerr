@@ -1,0 +1,10 @@
+E:\C#  Uygulama\deneme\deneme\bin\Debug\deneme.exe.config
+E:\C#  Uygulama\deneme\deneme\bin\Debug\deneme.exe
+E:\C#  Uygulama\deneme\deneme\bin\Debug\deneme.pdb
+E:\C#  Uygulama\deneme\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+E:\C#  Uygulama\deneme\deneme\obj\Debug\deneme.Form1.resources
+E:\C#  Uygulama\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+E:\C#  Uygulama\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.cache
+E:\C#  Uygulama\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\deneme\deneme\obj\Debug\deneme.exe
+E:\C#  Uygulama\deneme\deneme\obj\Debug\deneme.pdb

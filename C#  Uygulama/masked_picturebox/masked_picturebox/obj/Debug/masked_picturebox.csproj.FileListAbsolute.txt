@@ -1,0 +1,10 @@
+E:\C#  Uygulama\masked_picturebox\masked_picturebox\bin\Debug\masked_picturebox.exe.config
+E:\C#  Uygulama\masked_picturebox\masked_picturebox\bin\Debug\masked_picturebox.exe
+E:\C#  Uygulama\masked_picturebox\masked_picturebox\bin\Debug\masked_picturebox.pdb
+E:\C#  Uygulama\masked_picturebox\masked_picturebox\obj\Debug\masked_picturebox.csprojAssemblyReference.cache
+E:\C#  Uygulama\masked_picturebox\masked_picturebox\obj\Debug\masked_picturebox.Form1.resources
+E:\C#  Uygulama\masked_picturebox\masked_picturebox\obj\Debug\masked_picturebox.Properties.Resources.resources
+E:\C#  Uygulama\masked_picturebox\masked_picturebox\obj\Debug\masked_picturebox.csproj.GenerateResource.cache
+E:\C#  Uygulama\masked_picturebox\masked_picturebox\obj\Debug\masked_picturebox.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\masked_picturebox\masked_picturebox\obj\Debug\masked_picturebox.exe
+E:\C#  Uygulama\masked_picturebox\masked_picturebox\obj\Debug\masked_picturebox.pdb

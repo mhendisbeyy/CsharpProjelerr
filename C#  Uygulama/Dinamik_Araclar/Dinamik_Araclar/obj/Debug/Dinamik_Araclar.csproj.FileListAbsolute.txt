@@ -1,0 +1,10 @@
+E:\C#  Uygulama\Dinamik_Araclar\Dinamik_Araclar\bin\Debug\Dinamik_Araclar.exe.config
+E:\C#  Uygulama\Dinamik_Araclar\Dinamik_Araclar\bin\Debug\Dinamik_Araclar.exe
+E:\C#  Uygulama\Dinamik_Araclar\Dinamik_Araclar\bin\Debug\Dinamik_Araclar.pdb
+E:\C#  Uygulama\Dinamik_Araclar\Dinamik_Araclar\obj\Debug\Dinamik_Araclar.csprojAssemblyReference.cache
+E:\C#  Uygulama\Dinamik_Araclar\Dinamik_Araclar\obj\Debug\Dinamik_Araclar.Form1.resources
+E:\C#  Uygulama\Dinamik_Araclar\Dinamik_Araclar\obj\Debug\Dinamik_Araclar.Properties.Resources.resources
+E:\C#  Uygulama\Dinamik_Araclar\Dinamik_Araclar\obj\Debug\Dinamik_Araclar.csproj.GenerateResource.cache
+E:\C#  Uygulama\Dinamik_Araclar\Dinamik_Araclar\obj\Debug\Dinamik_Araclar.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Dinamik_Araclar\Dinamik_Araclar\obj\Debug\Dinamik_Araclar.exe
+E:\C#  Uygulama\Dinamik_Araclar\Dinamik_Araclar\obj\Debug\Dinamik_Araclar.pdb

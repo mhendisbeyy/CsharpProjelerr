@@ -1,0 +1,10 @@
+E:\C#  Uygulama\char\char\bin\Debug\@char.exe.config
+E:\C#  Uygulama\char\char\bin\Debug\@char.exe
+E:\C#  Uygulama\char\char\bin\Debug\@char.pdb
+E:\C#  Uygulama\char\char\obj\Debug\char.csprojAssemblyReference.cache
+E:\C#  Uygulama\char\char\obj\Debug\char.Form1.resources
+E:\C#  Uygulama\char\char\obj\Debug\char.Properties.Resources.resources
+E:\C#  Uygulama\char\char\obj\Debug\char.csproj.GenerateResource.cache
+E:\C#  Uygulama\char\char\obj\Debug\char.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\char\char\obj\Debug\@char.exe
+E:\C#  Uygulama\char\char\obj\Debug\@char.pdb

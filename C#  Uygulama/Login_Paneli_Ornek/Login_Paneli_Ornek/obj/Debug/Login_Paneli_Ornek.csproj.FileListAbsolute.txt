@@ -1,0 +1,10 @@
+E:\C#  Uygulama\Login_Paneli_Ornek\Login_Paneli_Ornek\bin\Debug\Login_Paneli_Ornek.exe.config
+E:\C#  Uygulama\Login_Paneli_Ornek\Login_Paneli_Ornek\bin\Debug\Login_Paneli_Ornek.exe
+E:\C#  Uygulama\Login_Paneli_Ornek\Login_Paneli_Ornek\bin\Debug\Login_Paneli_Ornek.pdb
+E:\C#  Uygulama\Login_Paneli_Ornek\Login_Paneli_Ornek\obj\Debug\Login_Paneli_Ornek.csprojAssemblyReference.cache
+E:\C#  Uygulama\Login_Paneli_Ornek\Login_Paneli_Ornek\obj\Debug\Login_Paneli_Ornek.Form1.resources
+E:\C#  Uygulama\Login_Paneli_Ornek\Login_Paneli_Ornek\obj\Debug\Login_Paneli_Ornek.Properties.Resources.resources
+E:\C#  Uygulama\Login_Paneli_Ornek\Login_Paneli_Ornek\obj\Debug\Login_Paneli_Ornek.csproj.GenerateResource.cache
+E:\C#  Uygulama\Login_Paneli_Ornek\Login_Paneli_Ornek\obj\Debug\Login_Paneli_Ornek.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Login_Paneli_Ornek\Login_Paneli_Ornek\obj\Debug\Login_Paneli_Ornek.exe
+E:\C#  Uygulama\Login_Paneli_Ornek\Login_Paneli_Ornek\obj\Debug\Login_Paneli_Ornek.pdb

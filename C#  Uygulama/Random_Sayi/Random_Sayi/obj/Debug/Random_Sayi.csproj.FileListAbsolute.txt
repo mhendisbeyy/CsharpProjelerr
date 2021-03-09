@@ -1,0 +1,10 @@
+E:\C#  Uygulama\Random_Sayi\Random_Sayi\bin\Debug\Random_Sayi.exe.config
+E:\C#  Uygulama\Random_Sayi\Random_Sayi\bin\Debug\Random_Sayi.exe
+E:\C#  Uygulama\Random_Sayi\Random_Sayi\bin\Debug\Random_Sayi.pdb
+E:\C#  Uygulama\Random_Sayi\Random_Sayi\obj\Debug\Random_Sayi.csprojAssemblyReference.cache
+E:\C#  Uygulama\Random_Sayi\Random_Sayi\obj\Debug\Random_Sayi.Form1.resources
+E:\C#  Uygulama\Random_Sayi\Random_Sayi\obj\Debug\Random_Sayi.Properties.Resources.resources
+E:\C#  Uygulama\Random_Sayi\Random_Sayi\obj\Debug\Random_Sayi.csproj.GenerateResource.cache
+E:\C#  Uygulama\Random_Sayi\Random_Sayi\obj\Debug\Random_Sayi.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Random_Sayi\Random_Sayi\obj\Debug\Random_Sayi.exe
+E:\C#  Uygulama\Random_Sayi\Random_Sayi\obj\Debug\Random_Sayi.pdb

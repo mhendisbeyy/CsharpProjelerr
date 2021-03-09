@@ -1,0 +1,10 @@
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Form1.resources
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Fibonacci\Fibonacci\obj\Debug\Fibonacci.Properties.Resources.resources
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.GenerateResource.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

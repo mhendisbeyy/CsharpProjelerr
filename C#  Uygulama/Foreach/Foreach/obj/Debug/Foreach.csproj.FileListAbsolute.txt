@@ -1,0 +1,9 @@
+E:\C#  Uygulama\Foreach\Foreach\bin\Debug\Foreach.exe.config
+E:\C#  Uygulama\Foreach\Foreach\bin\Debug\Foreach.exe
+E:\C#  Uygulama\Foreach\Foreach\bin\Debug\Foreach.pdb
+E:\C#  Uygulama\Foreach\Foreach\obj\Debug\Foreach.Form1.resources
+E:\C#  Uygulama\Foreach\Foreach\obj\Debug\Foreach.Properties.Resources.resources
+E:\C#  Uygulama\Foreach\Foreach\obj\Debug\Foreach.csproj.GenerateResource.cache
+E:\C#  Uygulama\Foreach\Foreach\obj\Debug\Foreach.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Foreach\Foreach\obj\Debug\Foreach.exe
+E:\C#  Uygulama\Foreach\Foreach\obj\Debug\Foreach.pdb

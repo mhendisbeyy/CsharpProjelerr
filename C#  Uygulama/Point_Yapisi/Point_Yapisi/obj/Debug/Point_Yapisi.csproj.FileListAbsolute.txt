@@ -1,0 +1,9 @@
+E:\C#  Uygulama\Point_Yapisi\Point_Yapisi\bin\Debug\Point_Yapisi.exe.config
+E:\C#  Uygulama\Point_Yapisi\Point_Yapisi\bin\Debug\Point_Yapisi.exe
+E:\C#  Uygulama\Point_Yapisi\Point_Yapisi\bin\Debug\Point_Yapisi.pdb
+E:\C#  Uygulama\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.Form1.resources
+E:\C#  Uygulama\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.Properties.Resources.resources
+E:\C#  Uygulama\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.csproj.GenerateResource.cache
+E:\C#  Uygulama\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.exe
+E:\C#  Uygulama\Point_Yapisi\Point_Yapisi\obj\Debug\Point_Yapisi.pdb

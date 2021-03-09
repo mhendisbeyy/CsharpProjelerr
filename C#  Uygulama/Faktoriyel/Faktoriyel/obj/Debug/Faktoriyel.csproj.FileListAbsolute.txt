@@ -1,0 +1,10 @@
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe.config
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.exe
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Faktoriyel\Faktoriyel\bin\Debug\Faktoriyel.pdb
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csprojAssemblyReference.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.Form1.resources
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.Properties.Resources.resources
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.GenerateResource.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.exe
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Faktoriyel\Faktoriyel\obj\Debug\Faktoriyel.pdb

@@ -1,0 +1,10 @@
+E:\C#  Uygulama\Metotlar\Metotlar\bin\Debug\Metotlar.exe.config
+E:\C#  Uygulama\Metotlar\Metotlar\bin\Debug\Metotlar.exe
+E:\C#  Uygulama\Metotlar\Metotlar\bin\Debug\Metotlar.pdb
+E:\C#  Uygulama\Metotlar\Metotlar\obj\Debug\Metotlar.csprojAssemblyReference.cache
+E:\C#  Uygulama\Metotlar\Metotlar\obj\Debug\Metotlar.Form1.resources
+E:\C#  Uygulama\Metotlar\Metotlar\obj\Debug\Metotlar.Properties.Resources.resources
+E:\C#  Uygulama\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.GenerateResource.cache
+E:\C#  Uygulama\Metotlar\Metotlar\obj\Debug\Metotlar.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Metotlar\Metotlar\obj\Debug\Metotlar.exe
+E:\C#  Uygulama\Metotlar\Metotlar\obj\Debug\Metotlar.pdb

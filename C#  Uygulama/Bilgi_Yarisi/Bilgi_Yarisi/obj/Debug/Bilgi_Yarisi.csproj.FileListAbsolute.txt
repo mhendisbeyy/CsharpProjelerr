@@ -1,0 +1,10 @@
+E:\C#  Uygulama\Bilgi_Yarisi\Bilgi_Yarisi\bin\Debug\Bilgi_Yarisi.exe.config
+E:\C#  Uygulama\Bilgi_Yarisi\Bilgi_Yarisi\bin\Debug\Bilgi_Yarisi.exe
+E:\C#  Uygulama\Bilgi_Yarisi\Bilgi_Yarisi\bin\Debug\Bilgi_Yarisi.pdb
+E:\C#  Uygulama\Bilgi_Yarisi\Bilgi_Yarisi\obj\Debug\Bilgi_Yarisi.csprojAssemblyReference.cache
+E:\C#  Uygulama\Bilgi_Yarisi\Bilgi_Yarisi\obj\Debug\Bilgi_Yarisi.Form1.resources
+E:\C#  Uygulama\Bilgi_Yarisi\Bilgi_Yarisi\obj\Debug\Bilgi_Yarisi.Properties.Resources.resources
+E:\C#  Uygulama\Bilgi_Yarisi\Bilgi_Yarisi\obj\Debug\Bilgi_Yarisi.csproj.GenerateResource.cache
+E:\C#  Uygulama\Bilgi_Yarisi\Bilgi_Yarisi\obj\Debug\Bilgi_Yarisi.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Bilgi_Yarisi\Bilgi_Yarisi\obj\Debug\Bilgi_Yarisi.exe
+E:\C#  Uygulama\Bilgi_Yarisi\Bilgi_Yarisi\obj\Debug\Bilgi_Yarisi.pdb

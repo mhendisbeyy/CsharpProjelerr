@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0076664C-5E50-4082-9FC6-10FCE58C6BCC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Deneme</RootNamespace>
+    <AssemblyName>Deneme</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bilet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bilet.Designer.cs">
+      <DependentUpon>Bilet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet10.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet10.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet11.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet11.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet12.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet12.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet13.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet13.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet7.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet7.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet8.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet8.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Deneme1DataSet9.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Deneme1DataSet9.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FilmHakkinda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilmHakkinda.Designer.cs">
+      <DependentUpon>FilmHakkinda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilmDüzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilmDüzenle.Designer.cs">
+      <DependentUpon>FilmDüzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilmEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilmEkle.Designer.cs">
+      <DependentUpon>FilmEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilmSalon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilmSalon.Designer.cs">
+      <DependentUpon>FilmSalon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilmSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilmSec.Designer.cs">
+      <DependentUpon>FilmSec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FilmDetay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilmDetay.Designer.cs">
+      <DependentUpon>FilmDetay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciEkle.Designer.cs">
+      <DependentUpon>KullaniciEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Salon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Salon.Designer.cs">
+      <DependentUpon>Salon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeansEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeansEkle.Designer.cs">
+      <DependentUpon>SeansEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeansSil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SeansSil.Designer.cs">
+      <DependentUpon>SeansSil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlBaglantisi.cs" />
+    <Compile Include="YoneticiAnasayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiAnasayfa.Designer.cs">
+      <DependentUpon>YoneticiAnasayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YoneticiGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiGiris.Designer.cs">
+      <DependentUpon>YoneticiGiris.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Bilet.resx">
+      <DependentUpon>Bilet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilmHakkinda.resx">
+      <DependentUpon>FilmHakkinda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilmDüzenle.resx">
+      <DependentUpon>FilmDüzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilmEkle.resx">
+      <DependentUpon>FilmEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilmSalon.resx">
+      <DependentUpon>FilmSalon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilmSec.resx">
+      <DependentUpon>FilmSec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilmDetay.resx">
+      <DependentUpon>FilmDetay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciEkle.resx">
+      <DependentUpon>KullaniciEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Salon.resx">
+      <DependentUpon>Salon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeansEkle.resx">
+      <DependentUpon>SeansEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeansSil.resx">
+      <DependentUpon>SeansSil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiAnasayfa.resx">
+      <DependentUpon>YoneticiAnasayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YoneticiGiris.resx">
+      <DependentUpon>YoneticiGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Deneme1DataSet.xsc">
+      <DependentUpon>Deneme1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet.xss">
+      <DependentUpon>Deneme1DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet1.xsc">
+      <DependentUpon>Deneme1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet1.xss">
+      <DependentUpon>Deneme1DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet10.xsc">
+      <DependentUpon>Deneme1DataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet10.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet10.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet10.xss">
+      <DependentUpon>Deneme1DataSet10.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet11.xsc">
+      <DependentUpon>Deneme1DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet11.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet11.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet11.xss">
+      <DependentUpon>Deneme1DataSet11.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet12.xsc">
+      <DependentUpon>Deneme1DataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet12.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet12.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet12.xss">
+      <DependentUpon>Deneme1DataSet12.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet13.xsc">
+      <DependentUpon>Deneme1DataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet13.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet13.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet13.xss">
+      <DependentUpon>Deneme1DataSet13.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet2.xsc">
+      <DependentUpon>Deneme1DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet2.xss">
+      <DependentUpon>Deneme1DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet3.xsc">
+      <DependentUpon>Deneme1DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet3.xss">
+      <DependentUpon>Deneme1DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet4.xsc">
+      <DependentUpon>Deneme1DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet4.xss">
+      <DependentUpon>Deneme1DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet5.xsc">
+      <DependentUpon>Deneme1DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet5.xss">
+      <DependentUpon>Deneme1DataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet6.xsc">
+      <DependentUpon>Deneme1DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet6.xss">
+      <DependentUpon>Deneme1DataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet7.xsc">
+      <DependentUpon>Deneme1DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet7.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet7.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet7.xss">
+      <DependentUpon>Deneme1DataSet7.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet8.xsc">
+      <DependentUpon>Deneme1DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet8.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet8.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet8.xss">
+      <DependentUpon>Deneme1DataSet8.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet9.xsc">
+      <DependentUpon>Deneme1DataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Deneme1DataSet9.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Deneme1DataSet9.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Deneme1DataSet9.xss">
+      <DependentUpon>Deneme1DataSet9.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resim\1230_seaport-theater.jpeg" />
+    <Content Include="Resim\images %281%29.jpg" />
+    <Content Include="Resim\images.jpg" />
+    <Content Include="Resim\koltuk.jpg" />
+    <Content Include="Resim\Man-Icon.png" />
+    <Content Include="Resim\sinamam.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

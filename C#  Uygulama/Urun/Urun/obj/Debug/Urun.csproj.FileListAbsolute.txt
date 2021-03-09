@@ -1,0 +1,10 @@
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Urun\Urun\bin\Debug\Urun.exe.config
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Urun\Urun\bin\Debug\Urun.exe
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Urun\Urun\bin\Debug\Urun.pdb
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Urun\Urun\obj\Debug\Urun.csprojAssemblyReference.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Urun\Urun\obj\Debug\Urun.Form1.resources
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Urun\Urun\obj\Debug\Urun.Properties.Resources.resources
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Urun\Urun\obj\Debug\Urun.csproj.GenerateResource.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Urun\Urun\obj\Debug\Urun.csproj.CoreCompileInputs.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Urun\Urun\obj\Debug\Urun.exe
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\Urun\Urun\obj\Debug\Urun.pdb

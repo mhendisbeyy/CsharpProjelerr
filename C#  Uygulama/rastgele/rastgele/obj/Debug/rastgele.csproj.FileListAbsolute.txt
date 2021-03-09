@@ -1,0 +1,10 @@
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\rastgele\rastgele\bin\Debug\rastgele.exe.config
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\rastgele\rastgele\bin\Debug\rastgele.exe
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\rastgele\rastgele\bin\Debug\rastgele.pdb
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\rastgele\rastgele\obj\Debug\rastgele.csprojAssemblyReference.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\rastgele\rastgele\obj\Debug\rastgele.Form1.resources
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\rastgele\rastgele\obj\Debug\rastgele.Properties.Resources.resources
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\rastgele\rastgele\obj\Debug\rastgele.csproj.GenerateResource.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\rastgele\rastgele\obj\Debug\rastgele.csproj.CoreCompileInputs.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\rastgele\rastgele\obj\Debug\rastgele.exe
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\rastgele\rastgele\obj\Debug\rastgele.pdb

@@ -1,0 +1,10 @@
+E:\C#  Uygulama\Ortalama_kenar_alan_hesaplama\Ortalama_kenar_alan_hesaplama\bin\Debug\Ortalama_kenar_alan_hesaplama.exe.config
+E:\C#  Uygulama\Ortalama_kenar_alan_hesaplama\Ortalama_kenar_alan_hesaplama\bin\Debug\Ortalama_kenar_alan_hesaplama.exe
+E:\C#  Uygulama\Ortalama_kenar_alan_hesaplama\Ortalama_kenar_alan_hesaplama\bin\Debug\Ortalama_kenar_alan_hesaplama.pdb
+E:\C#  Uygulama\Ortalama_kenar_alan_hesaplama\Ortalama_kenar_alan_hesaplama\obj\Debug\Ortalama_kenar_alan_hesaplama.csprojAssemblyReference.cache
+E:\C#  Uygulama\Ortalama_kenar_alan_hesaplama\Ortalama_kenar_alan_hesaplama\obj\Debug\Ortalama_kenar_alan_hesaplama.Form1.resources
+E:\C#  Uygulama\Ortalama_kenar_alan_hesaplama\Ortalama_kenar_alan_hesaplama\obj\Debug\Ortalama_kenar_alan_hesaplama.Properties.Resources.resources
+E:\C#  Uygulama\Ortalama_kenar_alan_hesaplama\Ortalama_kenar_alan_hesaplama\obj\Debug\Ortalama_kenar_alan_hesaplama.csproj.GenerateResource.cache
+E:\C#  Uygulama\Ortalama_kenar_alan_hesaplama\Ortalama_kenar_alan_hesaplama\obj\Debug\Ortalama_kenar_alan_hesaplama.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Ortalama_kenar_alan_hesaplama\Ortalama_kenar_alan_hesaplama\obj\Debug\Ortalama_kenar_alan_hesaplama.exe
+E:\C#  Uygulama\Ortalama_kenar_alan_hesaplama\Ortalama_kenar_alan_hesaplama\obj\Debug\Ortalama_kenar_alan_hesaplama.pdb

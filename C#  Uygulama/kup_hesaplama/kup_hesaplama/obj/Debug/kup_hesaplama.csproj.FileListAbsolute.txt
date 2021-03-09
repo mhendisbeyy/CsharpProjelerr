@@ -1,0 +1,9 @@
+E:\C#  Uygulama\kup_hesaplama\kup_hesaplama\bin\Debug\kup_hesaplama.exe.config
+E:\C#  Uygulama\kup_hesaplama\kup_hesaplama\bin\Debug\kup_hesaplama.exe
+E:\C#  Uygulama\kup_hesaplama\kup_hesaplama\bin\Debug\kup_hesaplama.pdb
+E:\C#  Uygulama\kup_hesaplama\kup_hesaplama\obj\Debug\kup_hesaplama.Form1.resources
+E:\C#  Uygulama\kup_hesaplama\kup_hesaplama\obj\Debug\kup_hesaplama.Properties.Resources.resources
+E:\C#  Uygulama\kup_hesaplama\kup_hesaplama\obj\Debug\kup_hesaplama.csproj.GenerateResource.cache
+E:\C#  Uygulama\kup_hesaplama\kup_hesaplama\obj\Debug\kup_hesaplama.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\kup_hesaplama\kup_hesaplama\obj\Debug\kup_hesaplama.exe
+E:\C#  Uygulama\kup_hesaplama\kup_hesaplama\obj\Debug\kup_hesaplama.pdb

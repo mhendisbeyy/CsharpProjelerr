@@ -1,0 +1,10 @@
+E:\C#  Uygulama\Menu_Strip\Menu_Strip\bin\Debug\Menu_Strip.exe.config
+E:\C#  Uygulama\Menu_Strip\Menu_Strip\bin\Debug\Menu_Strip.exe
+E:\C#  Uygulama\Menu_Strip\Menu_Strip\bin\Debug\Menu_Strip.pdb
+E:\C#  Uygulama\Menu_Strip\Menu_Strip\obj\Debug\Menu_Strip.csprojAssemblyReference.cache
+E:\C#  Uygulama\Menu_Strip\Menu_Strip\obj\Debug\Menu_Strip.Form1.resources
+E:\C#  Uygulama\Menu_Strip\Menu_Strip\obj\Debug\Menu_Strip.Properties.Resources.resources
+E:\C#  Uygulama\Menu_Strip\Menu_Strip\obj\Debug\Menu_Strip.csproj.GenerateResource.cache
+E:\C#  Uygulama\Menu_Strip\Menu_Strip\obj\Debug\Menu_Strip.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Menu_Strip\Menu_Strip\obj\Debug\Menu_Strip.exe
+E:\C#  Uygulama\Menu_Strip\Menu_Strip\obj\Debug\Menu_Strip.pdb

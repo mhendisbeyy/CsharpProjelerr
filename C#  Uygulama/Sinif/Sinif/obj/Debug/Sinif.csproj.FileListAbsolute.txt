@@ -1,0 +1,11 @@
+E:\C#  Uygulama\Sinif\Sinif\bin\Debug\Sinif.exe.config
+E:\C#  Uygulama\Sinif\Sinif\bin\Debug\Sinif.exe
+E:\C#  Uygulama\Sinif\Sinif\bin\Debug\Sinif.pdb
+E:\C#  Uygulama\Sinif\Sinif\obj\Debug\Sinif.csprojAssemblyReference.cache
+E:\C#  Uygulama\Sinif\Sinif\obj\Debug\Sinif.Form1.resources
+E:\C#  Uygulama\Sinif\Sinif\obj\Debug\Sinif.Form2.resources
+E:\C#  Uygulama\Sinif\Sinif\obj\Debug\Sinif.Properties.Resources.resources
+E:\C#  Uygulama\Sinif\Sinif\obj\Debug\Sinif.csproj.GenerateResource.cache
+E:\C#  Uygulama\Sinif\Sinif\obj\Debug\Sinif.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Sinif\Sinif\obj\Debug\Sinif.exe
+E:\C#  Uygulama\Sinif\Sinif\obj\Debug\Sinif.pdb

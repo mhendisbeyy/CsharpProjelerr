@@ -1,0 +1,10 @@
+D:\C#  Uygulama\sinema_bufe_satis\sinema_bufe_satis\bin\Debug\sinema_bufe_satis.exe.config
+D:\C#  Uygulama\sinema_bufe_satis\sinema_bufe_satis\bin\Debug\sinema_bufe_satis.exe
+D:\C#  Uygulama\sinema_bufe_satis\sinema_bufe_satis\bin\Debug\sinema_bufe_satis.pdb
+D:\C#  Uygulama\sinema_bufe_satis\sinema_bufe_satis\obj\Debug\sinema_bufe_satis.csprojAssemblyReference.cache
+D:\C#  Uygulama\sinema_bufe_satis\sinema_bufe_satis\obj\Debug\sinema_bufe_satis.Form1.resources
+D:\C#  Uygulama\sinema_bufe_satis\sinema_bufe_satis\obj\Debug\sinema_bufe_satis.Properties.Resources.resources
+D:\C#  Uygulama\sinema_bufe_satis\sinema_bufe_satis\obj\Debug\sinema_bufe_satis.csproj.GenerateResource.cache
+D:\C#  Uygulama\sinema_bufe_satis\sinema_bufe_satis\obj\Debug\sinema_bufe_satis.csproj.CoreCompileInputs.cache
+D:\C#  Uygulama\sinema_bufe_satis\sinema_bufe_satis\obj\Debug\sinema_bufe_satis.exe
+D:\C#  Uygulama\sinema_bufe_satis\sinema_bufe_satis\obj\Debug\sinema_bufe_satis.pdb

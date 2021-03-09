@@ -1,0 +1,11 @@
+E:\C#  Uygulama\Formlararasi_veritasima\Formlararasi_veritasima\bin\Debug\Formlararasi_veritasima.exe.config
+E:\C#  Uygulama\Formlararasi_veritasima\Formlararasi_veritasima\bin\Debug\Formlararasi_veritasima.exe
+E:\C#  Uygulama\Formlararasi_veritasima\Formlararasi_veritasima\bin\Debug\Formlararasi_veritasima.pdb
+E:\C#  Uygulama\Formlararasi_veritasima\Formlararasi_veritasima\obj\Debug\Formlararasi_veritasima.csprojAssemblyReference.cache
+E:\C#  Uygulama\Formlararasi_veritasima\Formlararasi_veritasima\obj\Debug\Formlararasi_veritasima.Form1.resources
+E:\C#  Uygulama\Formlararasi_veritasima\Formlararasi_veritasima\obj\Debug\Formlararasi_veritasima.Form2.resources
+E:\C#  Uygulama\Formlararasi_veritasima\Formlararasi_veritasima\obj\Debug\Formlararasi_veritasima.Properties.Resources.resources
+E:\C#  Uygulama\Formlararasi_veritasima\Formlararasi_veritasima\obj\Debug\Formlararasi_veritasima.csproj.GenerateResource.cache
+E:\C#  Uygulama\Formlararasi_veritasima\Formlararasi_veritasima\obj\Debug\Formlararasi_veritasima.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Formlararasi_veritasima\Formlararasi_veritasima\obj\Debug\Formlararasi_veritasima.exe
+E:\C#  Uygulama\Formlararasi_veritasima\Formlararasi_veritasima\obj\Debug\Formlararasi_veritasima.pdb

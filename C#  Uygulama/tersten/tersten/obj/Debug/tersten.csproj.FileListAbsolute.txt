@@ -1,0 +1,10 @@
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\tersten\tersten\bin\Debug\tersten.exe.config
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\tersten\tersten\bin\Debug\tersten.exe
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\tersten\tersten\bin\Debug\tersten.pdb
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\tersten\tersten\obj\Debug\tersten.csprojAssemblyReference.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\tersten\tersten\obj\Debug\tersten.Form1.resources
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\tersten\tersten\obj\Debug\tersten.Properties.Resources.resources
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\tersten\tersten\obj\Debug\tersten.csproj.GenerateResource.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\tersten\tersten\obj\Debug\tersten.csproj.CoreCompileInputs.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\tersten\tersten\obj\Debug\tersten.exe
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\tersten\tersten\obj\Debug\tersten.pdb

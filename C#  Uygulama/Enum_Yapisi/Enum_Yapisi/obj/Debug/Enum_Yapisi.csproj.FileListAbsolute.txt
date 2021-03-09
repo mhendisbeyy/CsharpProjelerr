@@ -1,0 +1,9 @@
+E:\C#  Uygulama\Enum_Yapisi\Enum_Yapisi\bin\Debug\Enum_Yapisi.exe.config
+E:\C#  Uygulama\Enum_Yapisi\Enum_Yapisi\bin\Debug\Enum_Yapisi.exe
+E:\C#  Uygulama\Enum_Yapisi\Enum_Yapisi\bin\Debug\Enum_Yapisi.pdb
+E:\C#  Uygulama\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.Form1.resources
+E:\C#  Uygulama\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.Properties.Resources.resources
+E:\C#  Uygulama\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.csproj.GenerateResource.cache
+E:\C#  Uygulama\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.exe
+E:\C#  Uygulama\Enum_Yapisi\Enum_Yapisi\obj\Debug\Enum_Yapisi.pdb

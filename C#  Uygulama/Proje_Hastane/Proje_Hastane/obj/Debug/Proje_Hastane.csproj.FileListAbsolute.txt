@@ -1,0 +1,16 @@
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csprojAssemblyReference.cache
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmGirisler.resources
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaGiris.resources
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBilgiDuzenle.resources
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorDetay.resources
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorGiris.resources
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaDetay.resources
+E:\C#  Uygulama\Proje_Hastane\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaKayit.resources

@@ -1,0 +1,11 @@
+E:\C#  Uygulama\captcha_olusturma\captcha_olusturma\bin\Debug\captcha_olusturma.exe.config
+E:\C#  Uygulama\captcha_olusturma\captcha_olusturma\bin\Debug\captcha_olusturma.exe
+E:\C#  Uygulama\captcha_olusturma\captcha_olusturma\bin\Debug\captcha_olusturma.pdb
+E:\C#  Uygulama\captcha_olusturma\captcha_olusturma\obj\Debug\captcha_olusturma.csprojAssemblyReference.cache
+E:\C#  Uygulama\captcha_olusturma\captcha_olusturma\obj\Debug\captcha_olusturma.Form1.resources
+E:\C#  Uygulama\captcha_olusturma\captcha_olusturma\obj\Debug\captcha_olusturma.Properties.Resources.resources
+E:\C#  Uygulama\captcha_olusturma\captcha_olusturma\obj\Debug\captcha_olusturma.csproj.GenerateResource.cache
+E:\C#  Uygulama\captcha_olusturma\captcha_olusturma\obj\Debug\captcha_olusturma.csproj.CoreCompileInputs.cache
+E:\C#  Uygulama\captcha_olusturma\captcha_olusturma\obj\Debug\captcha_olusturma.exe
+E:\C#  Uygulama\captcha_olusturma\captcha_olusturma\obj\Debug\captcha_olusturma.pdb
+E:\C#  Uygulama\captcha_olusturma\captcha_olusturma\obj\Debug\captcha_olusturma.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\KareKök\KareKök\bin\Debug\KareKök.exe.config
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\KareKök\KareKök\bin\Debug\KareKök.exe
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\KareKök\KareKök\bin\Debug\KareKök.pdb
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\KareKök\KareKök\obj\Debug\KareKök.csprojAssemblyReference.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\KareKök\KareKök\obj\Debug\KareKök.Form1.resources
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\KareKök\KareKök\obj\Debug\KareKök.Properties.Resources.resources
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\KareKök\KareKök\obj\Debug\KareKök.csproj.GenerateResource.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\KareKök\KareKök\obj\Debug\KareKök.csproj.CoreCompileInputs.cache
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\KareKök\KareKök\obj\Debug\KareKök.exe
+C:\Users\ali_p\OneDrive\Masaüstü\Merve\KareKök\KareKök\obj\Debug\KareKök.pdb
